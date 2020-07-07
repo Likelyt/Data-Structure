@@ -1,2 +1,2 @@
 # Data-Structure
-Algo and Data Structure
+Algorithms and Data Structure
